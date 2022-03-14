@@ -1,4 +1,5 @@
 body {
+  
    background-color:  #1f1f1f;
 }
 .wrapper {
@@ -20,6 +21,7 @@ body {
 
 .btn {
    display: inline-block;
+ 
    margin-top: 4px;
    margin-bottom: 8px;
    margin-right: 6px;
@@ -45,7 +47,5 @@ body {
   
    
 }
-.text-center {
-   text-align: center;
-}
+
 }
