@@ -1,0 +1,50 @@
+body {
+   background-color:  #1f1f1f;
+}
+.wrapper {
+    margin-top:  175px;
+    width:  1205px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.video_frame {
+    display: inline-block;
+    position: relative;
+    overflow: hidden !important;
+    width: 600px;
+    height: 395px;
+}
+.player {
+   position:  absolute;
+}
+
+.btn {
+   display: inline-block;
+   margin-top: 5px;
+   margin-right: 6px;
+   color: white;
+   border-radius: 8px;
+   border-bottom-color: white;
+   border-top-color: wheat;
+   border-right-color: wheat;
+   border-left-color: wheat;;
+   background-color:#0dcaf01f;
+}
+@media screen and (max-width: 368px) { 
+
+   .video_frame {
+     
+      width: 20%;
+      height: 10%;
+     
+  }
+  .wrapper {
+   margin-top:  30%;
+   width:  20%;
+  
+   
+}
+.text-center {
+   text-align: center;
+}
+}
