@@ -12,8 +12,8 @@ body {
     display: inline-block;
     position: relative;
     overflow: hidden !important;
-    width: 600px;
-    height: 395px;
+    width: 590px;
+    height: 300px;
 }
 .player {
    position:  absolute;
@@ -37,13 +37,13 @@ body {
 
    .video_frame {
      
-      width: 200px;
-      height: 8%;
+      width: 100px;
+      height: 100px;
      
   }
   .wrapper {
-   margin-top:  30%;
-   width:  200px;
+   margin-top:  50px;
+   width:  100px;
    
 }
 .btn {
